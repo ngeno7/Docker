@@ -42,8 +42,13 @@ Interative mode/ terminal
  ```
  docker run -it CONTAINERID
  ```
- Run docker in the background/in detached mode
+ Run docker container in the background/in detached mode
  ```
  docker run -d CONTAINERID
  ```
+ Run in attached mode
+ ```
+ docker attach CONTAINERID
+ ```
+ 
  
