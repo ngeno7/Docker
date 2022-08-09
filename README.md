@@ -50,5 +50,10 @@ Interative mode/ terminal
  ```
  docker attach CONTAINERID
  ```
+ Mapping docker to external volume and port
+ ```
+ docker run -p REMOTEPORT:DOCKERPORT -v REMOTEVOLUME:CONTAINERVOLUME CONTAINERNAME
+ ```
  
+ [Docker+for+Beginners-Mumshad+Mannambeth.pdf](https://github.com/ngeno7/Docker/files/9291596/Docker%2Bfor%2BBeginners-Mumshad%2BMannambeth.pdf)
  
