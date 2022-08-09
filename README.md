@@ -36,3 +36,7 @@ Remove image
 ```
 docker rmi IMAGE
 ```
+Interative mode/ terminal
+ - -i  Interactive
+ -  -t Terminal
+ -  
