@@ -32,3 +32,7 @@ Listing the images
 ```
 docker images
 ```
+Remove image
+```
+docker rmi IMAGE
+```
