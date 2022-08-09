@@ -19,12 +19,12 @@ docker ps -a
 ```
 Stops the container process
 ```
-docker stop IMAGEID
+docker stop CONTAINERID
 ```
 ```
 docker stop NAME
 ```
 Delete a container
 ```
-docker rm IMAGEID
+docker rm CONTAINERID
 ```
