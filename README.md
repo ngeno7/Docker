@@ -17,3 +17,14 @@ List all the containers including the exited ones.
 ```
 docker ps -a
 ```
+Stops the container process
+```
+docker stop IMAGEID
+```
+```
+docker stop NAME
+```
+Delete a container
+```
+docker rm IMAGEID
+```
