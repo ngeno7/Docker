@@ -28,3 +28,7 @@ Delete a container
 ```
 docker rm CONTAINERID
 ```
+Listing the images
+```
+docker images
+```
